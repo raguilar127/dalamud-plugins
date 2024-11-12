@@ -18,9 +18,9 @@
     "AssemblyVersion": "1.6.4.0",
     "IsTestingExclusive": "False",
     "Changelog": "- Fix: Not detecting gathering objects in Island Sanctuary",
-    "DownloadLinkInstall": "https://github.com/raguilar127/dalamud-plugins/raw/main/latest.zip",
-    "DownloadLinkTesting": "https://github.com/raguilar127/dalamud-plugins/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/raguilar127/dalamud-plugins/raw/main/latest.zip",
+    "DownloadLinkInstall": "https://github.com/raguilar127/dalamud-plugins/raw/refs/heads/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/raguilar127/dalamud-plugins/raw/refs/heads/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/raguilar127/dalamud-plugins/raw/refs/heads/main/latest.zip",
     "LastUpdate": "1700053462"
   }
 ]
